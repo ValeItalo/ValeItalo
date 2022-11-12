@@ -42,4 +42,8 @@
   <a href="https://www.linkedin.com/in/ítalo-vale-878b7b228" target="_blank">
     <img align="center" alt="LinkedIn-icon" width="155" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
+  <a href="https://codepen.io/valeitalo" target="_blank">
+    <img align="center" alt="LinkedIn-icon" width="155" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+  </a>
  </div>
