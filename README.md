@@ -14,17 +14,17 @@
 ### Projetos
 
 <p align="center">
-  <a href="https://pagina-noticias.netlify.app/" target="_blank">
-    <img src="https://github.com/ValeItalo/Frontend-Mentor-pagina-noticias/blob/main/assets/images/versao-desktop-4.png" alt="projeto página de notícias" width="100%">
-  </a>
-</p>
- 
-<p align="center">
   <a href="https://api-viacep.netlify.app/" target="_blank">
     <img src="https://user-images.githubusercontent.com/103216978/197297064-dedb2227-5fb8-471b-a46c-5ad189ed21f2.png" alt="projeto API ViaCep" width="100%">
   </a>
 </p>
 
+<p align="center">
+  <a href="https://pagina-noticias.netlify.app/" target="_blank">
+    <img src="https://github.com/ValeItalo/Frontend-Mentor-pagina-noticias/blob/main/assets/images/versao-desktop-4.png" alt="projeto página de notícias" width="100%">
+  </a>
+</p>
+ 
 <br>
  
  <div align="center">
