@@ -11,6 +11,8 @@
 
 <br>
  
+### Projetos
+
 <p align="center">
   <a href="https://pagina-noticias.netlify.app/" target="_blank">
     <img src="https://github.com/ValeItalo/Frontend-Mentor-pagina-noticias/blob/main/assets/images/versao-desktop-4.png" alt="projeto página de notícias" width="100%">
@@ -19,7 +21,7 @@
  
 <p align="center">
   <a href="https://api-viacep.netlify.app/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/103216978/197297064-dedb2227-5fb8-471b-a46c-5ad189ed21f2.png" alt="projeto API ViaCep" width="65%">
+    <img src="https://user-images.githubusercontent.com/103216978/197297064-dedb2227-5fb8-471b-a46c-5ad189ed21f2.png" alt="projeto API ViaCep" width="100%">
   </a>
 </p>
 
@@ -33,7 +35,8 @@
   </a>
  </div>
  <br>
- <div align="center">
+ 
+<div align="center">
   <a href="https://www.linkedin.com/in/ítalo-vale-878b7b228" target="_blank">
     <img align="center" alt="LinkedIn-icon" width="155" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
