@@ -18,7 +18,7 @@
     <img src="https://github.com/ValeItalo/Sorveteria-app/raw/main/assets/sorveteria-mobile-4.png" alt="projeto de uma aplicação de uma sorveteria" width="90%">
   </a>
 </p>
-<br><br>
+<br>
 
 
 <p align="center">
@@ -26,7 +26,7 @@
     <img src="https://github.com/ValeItalo/Frontend-Mentor-pagina-noticias/raw/main/assets/images/versao-desktop-5.png" alt="projeto página de notícias" width="90%">
   </a>
 </p>
-<br><br>
+<br>
 
 
 <p align="center">
@@ -34,7 +34,7 @@
     <img src="https://user-images.githubusercontent.com/103216978/197297064-dedb2227-5fb8-471b-a46c-5ad189ed21f2.png" alt="projeto API ViaCep para automatizar o preenchimento do endereço após digitar apenas o número do CEP" width="90%">
   </a>
 </p>
-<br><br>
+<br>
 
 
 <p align="center">
