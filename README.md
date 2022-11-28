@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://avaliacao-interativa.netlify.app/" target="_blank">
-    <img src="https://github.com/ValeItalo/Frontend-Mentor-componente-interativo-avaliacao/raw/main/images/mobile-app-avaliacao02.png" alt="projeto de uma aplicação para avaliar o atendimento que o cliente recebeu" min-width="70%" height="580em">
+    <img src="https://github.com/ValeItalo/Frontend-Mentor-componente-interativo-avaliacao/raw/main/images/mobile-app-avaliacao02.png" alt="projeto de uma aplicação para avaliar o atendimento que o cliente recebeu" width="50%">
   </a>
 </p>
 
