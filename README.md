@@ -3,9 +3,9 @@
 <br>
 <div align="center">
   <a href="https://github.com/ValeItalo">
-    <img max-width="44.5%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ValeItalo&amp;layout=compact&amp;theme=dracula">
+    <img max-width="43%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ValeItalo&amp;layout=compact&amp;theme=dracula">
     
-   <img max-width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeItalo&amp;layout=compact&amp;langs_count=7&amp;theme=dracula">
+   <img max-width="43%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeItalo&amp;layout=compact&amp;langs_count=7&amp;theme=dracula">
   </a>
 </div>
 <br>
