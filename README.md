@@ -1,16 +1,5 @@
 ## Oi, eu sou o Ítalo 👨🏽‍💻
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/ValeItalo">
-    <img min-width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeItalo&layout=compact&langs_count=7&theme=tokyonight">
-    <img min-width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ValeItalo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-   </a>
-</div>
-
-<br>
- 
 ## Projetos
 
 <p align="center">
