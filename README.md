@@ -1,14 +1,12 @@
 ## Oi, eu sou o Ítalo 👨🏽‍💻
 
 <br>
-
 <div align="center">
   <a href="https://github.com/ValeItalo">
-    <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ValeItalo&amp;theme=radical">
-   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeItalo&amp;layout=compact&amp;langs_count=7&amp;theme=radical">
+    <img min-width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ValeItalo&amp;theme=radical">
+   <img min-width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeItalo&amp;layout=compact&amp;langs_count=7&amp;theme=radical">
   </a>
 </div>
-
 <br>
 
 ## Projetos
@@ -20,7 +18,6 @@
 </p>
 <br>
 
-
 <p align="center">
   <a href="https://github.com/ValeItalo/Frontend-Mentor-pagina-noticias" target="_blank">
     <img src="https://github.com/ValeItalo/Frontend-Mentor-pagina-noticias/raw/main/assets/images/versao-desktop-5.png" alt="projeto página de notícias" width="90%">
@@ -28,14 +25,12 @@
 </p>
 <br>
 
-
 <p align="center">
   <a href="https://github.com/ValeItalo/API-ViaCEP" target="_blank">
     <img src="https://user-images.githubusercontent.com/103216978/197297064-dedb2227-5fb8-471b-a46c-5ad189ed21f2.png" alt="projeto API ViaCep para automatizar o preenchimento do endereço após digitar apenas o número do CEP" width="90%">
   </a>
 </p>
 <br>
-
 
 <p align="center">
   <a href="https://github.com/ValeItalo/Frontend-Mentor-componente-interativo-avaliacao" target="_blank">
