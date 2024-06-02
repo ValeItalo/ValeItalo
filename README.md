@@ -1,7 +1,21 @@
-## Oi, eu sou o Ítalo 👨🏽‍💻
-<br>
+## Ítalo Vale 👨🏽‍💻
+### Movido pela paixão por desenvolver soluções de software que simplifiquem o dia a dia dos usuários.
+
+•	**Front-end**: Angular 2+, TypeScript, JavaScript, HTML, SCSS/CSS, Bootstrap <br>
+•	**Back-end**: Java 8+, Spring Boot, SQL Server, MySQL, APIs REST e Microsserviços <br>
+•	**Ferramentas**: Insomnia, Postman, RxJS, GitLab e OneDev <br>
+•	**Metodologias**: Scrum e Kanban <br>
+•	**Modelagem de Processos**: Camunda Modeler 7 (BPMN) <br>
+
 
 ## Projetos
+
+<p align="center">
+  <a href="https://github.com/ValeItalo/salao-luna-fashion" target="_blank">
+    <img src="https://github.com/ValeItalo/ValeItalo/assets/103216978/bb6e9875-a224-466d-9f90-a3ccdfc94b60" alt="projeto do salão de beleza Luna Fashion" width="90%">
+  </a>
+</p>
+<br>
 
 <p align="center">
   <a href="https://github.com/ValeItalo/Sorveteria-app" target="_blank">
