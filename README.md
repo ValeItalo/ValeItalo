@@ -4,7 +4,7 @@
 Desenvolvedor front-end movido pela paixão por criar soluções de software que simplifiquem o dia a dia dos usuários. Atualmente, sou estagiário na área de DevOps na Vivo (Telefônica Brasil). 
 </p>
 <p>
-Minha experiência abrange o desenvolvimento, manutenção e evolução de aplicações com Angular 2+, incluindo prototipação de páginas web utilizando o Figma. Além disso, mesmo com meu foco principal sendo o front-end, eu atuo no back-end com Java 8+, expandindo meu portfólio de habilidades e criando soluções mais completas.
+Minha experiência abrange o desenvolvimento, manutenção e evolução de aplicações com Angular 2+, incluindo prototipação de páginas web utilizando o Figma. Além disso, mesmo com meu foco principal sendo o front-end, eu atuo no back-end com Java 8+, expandindo meu portfólio de habilidades e construindo sistemas mais completos.
 </p>
 
 ## Projetos
