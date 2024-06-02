@@ -1,7 +1,7 @@
 ## Ítalo Vale 👨🏽‍💻
 ### Movido pela paixão por desenvolver soluções de software que simplifiquem o dia a dia dos usuários.
 
-•	**Front-end**: Angular 2+, TypeScript, JavaScript, HTML, SCSS/CSS, Bootstrap <br>
+•	**Front-end**: Angular 2+, TypeScript, JavaScript, HTML, SCSS/CSS e Bootstrap <br>
 •	**Back-end**: Java 8+, Spring Boot, SQL Server, MySQL, APIs REST e Microsserviços <br>
 •	**Ferramentas**: Insomnia, Postman, RxJS, GitLab e OneDev <br>
 •	**Metodologias**: Scrum e Kanban <br>
