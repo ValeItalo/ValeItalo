@@ -6,9 +6,9 @@ Desenvolvedor Full Stack, estudante de Bacharelado em Tecnologia da Informação
 
 Competências Técnicas:
 
-Front-end: Angular 2+, TypeScript, JavaScript, HTML, SCSS/CSS, Bootstrap, RxJS
-Back-end: Java 8+, Spring Boot, SQL Server, MySQL, APIs REST
-Ferramentas e Metodologias: Camunda Modeler 7 (BPMN), Insomnia, Postman, GitLab, OneDev, Scrum, Kanban
+Front-end: Angular 2+, TypeScript, JavaScript, HTML, SCSS/CSS, Bootstrap e RxJS
+Back-end: Java 8+, Spring Boot, SQL Server, MySQL e APIs REST
+Ferramentas e Metodologias: Camunda Modeler 7 (BPMN), Insomnia, Postman, GitLab, OneDev, Scrum e Kanban
 </p>
 
 ## Projetos
