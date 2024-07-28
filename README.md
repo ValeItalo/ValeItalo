@@ -21,13 +21,13 @@ Ferramentas e Metodologias: Camunda Modeler 7 (BPMN), Insomnia, Postman, GitLab,
     <img src="https://github.com/ValeItalo/Sorveteria-app/raw/main/assets/sorveteria-mobile-4.png" alt="projeto de uma aplicação de uma sorveteria" width="50%">
   </a>
 </p>
-<br>
+
 <p align="center">
 <a href="https://github.com/ValeItalo/Frontend-Mentor-pagina-noticias" target="_blank">
-    <img src="https://github.com/ValeItalo/Frontend-Mentor-pagina-noticias/raw/main/assets/images/versao-desktop-5.png" alt="projeto página de notícias" height="230px">
+    <img src="https://github.com/ValeItalo/Frontend-Mentor-pagina-noticias/raw/main/assets/images/versao-desktop-5.png" alt="projeto página de notícias" height="240px">
   </a>
   <a href="https://github.com/ValeItalo/API-ViaCEP" target="_blank">
-    <img src="https://user-images.githubusercontent.com/103216978/197297064-dedb2227-5fb8-471b-a46c-5ad189ed21f2.png" alt="projeto API ViaCep para automatizar o preenchimento do endereço após digitar apenas o número do CEP"  height="230px">
+    <img src="https://user-images.githubusercontent.com/103216978/197297064-dedb2227-5fb8-471b-a46c-5ad189ed21f2.png" alt="projeto API ViaCep para automatizar o preenchimento do endereço após digitar apenas o número do CEP"  height="240px">
   </a>
 </p>
 
