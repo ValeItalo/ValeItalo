@@ -1,10 +1,14 @@
-## Ítalo 👨🏽‍💻 
+<img src="https://github.com/user-attachments/assets/08232f39-f6d1-49fe-a221-02d29abb8f74" alt="Banner Ítalo Vale" style="max-width: 100%;">
 
+## Ítalo 👨🏽‍💻 
 <p>
-Desenvolvedor front-end movido pela paixão por criar soluções de software que simplifiquem o dia a dia dos usuários. Atualmente, sou estagiário na área de DevOps na Vivo (Telefônica Brasil). 
-</p>
-<p>
-Minha experiência abrange o desenvolvimento, manutenção e evolução de aplicações com Angular 2+, incluindo prototipação de páginas web utilizando o Figma. Além disso, mesmo com meu foco principal sendo o front-end, eu atuo no back-end com Java 8+, expandindo meu portfólio de habilidades e construindo sistemas mais completos.
+Desenvolvedor Full Stack, estudante de Bacharelado em Tecnologia da Informação e estagiário de DevOps no setor de Transformação Digital da Vivo (Telefônica Brasil). Apaixonado por criar soluções de software que simplifiquem a vida dos usuários.
+
+Competências Técnicas:
+
+Front-end: Angular 2+, TypeScript, JavaScript, HTML, SCSS/CSS, Bootstrap, RxJS
+Back-end: Java 8+, Spring Boot, SQL Server, MySQL, APIs REST
+Ferramentas e Metodologias: Camunda Modeler 7 (BPMN), Insomnia, Postman, GitLab, OneDev, Scrum, Kanban
 </p>
 
 ## Projetos
