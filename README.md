@@ -35,7 +35,7 @@ Ferramentas e Metodologias: Camunda Modeler 7 (BPMN), Insomnia, Postman, GitLab,
  ## Tecnologias
 
  <div align="center">
-  <a href="https://www.linkedin.com/in/ítalo-vale-878b7b228" target="_blank">
+  <a href="https://www.linkedin.com/in/italo-vale" target="_blank">
     <img align="center" alt="Angular-icon" height="40" src="https://github.com/user-attachments/assets/1f9ea096-1eda-46a4-ab25-38546340ba0a">
     <img align="center" alt="JavaScript-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="CSS-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -49,9 +49,5 @@ Ferramentas e Metodologias: Camunda Modeler 7 (BPMN), Insomnia, Postman, GitLab,
 <div align="center">
   <a href="https://www.linkedin.com/in/italo-vale" target="_blank">
     <img align="center" alt="LinkedIn-icon" width="155" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://codepen.io/valeitalo" target="_blank">
-    <img align="center" alt="LinkedIn-icon" width="155" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
  </div>
