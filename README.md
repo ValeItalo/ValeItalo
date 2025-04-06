@@ -15,7 +15,7 @@ Ferramentas e Metodologias: Camunda Modeler 7 (BPMN), Insomnia, Postman, GitLab,
 
 ## Projetos
 <p align="center">
-  <a href="https://github.com/ValeItalo/salao-luna-fashion" target="_blank">
+  <a href="https://github.com/ValeItalo/Sorveteria-app" target="_blank">
     <img src="https://github.com/ValeItalo/ValeItalo/assets/103216978/bb6e9875-a224-466d-9f90-a3ccdfc94b60" alt="projeto do salão de beleza Luna Fashion" width="34.6%;>
   </a>
     
