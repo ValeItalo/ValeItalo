@@ -2,6 +2,7 @@
 
 <p align="center">
   Java · Spring Boot · Angular<br/>
+  DevOps (Docker, GitLab CI/CD) · Testes Automatizados<br/>
   <a href="https://www.linkedin.com/in/italo-vale">LinkedIn</a> ·
   <a href="mailto:italo.vale@hotmail.com">E-mail</a> 
   <!-- · <a href="LINK-DO-PORTFOLIO">Portfólio</a> -->
@@ -15,12 +16,20 @@ automação e integração de sistemas.
 
 > Resolvo problemas com compromisso e paixão, focado no valor real que me proponho a gerar.
 
-Na **Vivo (Diretoria de Transformação Digital) Mar/2023 - Ago/2026** atuei com:
+## 💼 Experiência
 
-- Evolução e sustentação de microsserviços Java e APIs REST em produção
-- Telas e painéis em Angular com métricas extraídas de logs de execução
-- Automações em Java/Selenium
+**Desenvolvedor Full Stack / DevOps Júnior** · Vivo (Telefônica Brasil) <br/>
+Diretoria de Transformação Digital · Mar/2023 - Ago/2026 (do estágio à efetivação em Nov/2024)
+
+Atuação versátil em desenvolvimento, automação e integração de sistemas corporativos, incluindo regras de negócio do setor de telecom.
+
+- Desenvolvimento e evolução de automações (Java/Selenium) e microsserviços Java com APIs REST em produção
+- Criação de telas, componentes, formulários, tabelas e painéis em Angular, com gráficos e métricas gerenciais
+- Manipulação de dados relacionais e não relacionais (SQL Server e MongoDB) em automações e aplicações corporativas
 - Contêineres com Docker/Rancher, pipelines CI/CD (GitLab) e Scrum/Kanban
+- Levantamento e alinhamento de regras de negócio de novas funcionalidades junto às áreas envolvidas
+- Backup técnico de desenvolvedores seniores (front-end, back-end e Power BI) em períodos de férias, com contato pontual com .NET e Node.js
+- Orientação técnica a desenvolvedores de empresas parceiras e mentoria de estagiários
 
 ## 🎓 Formação
 
@@ -40,7 +49,7 @@ Na **Vivo (Diretoria de Transformação Digital) Mar/2023 - Ago/2026** atuei com
 | Automação | Selenium, Camunda Modeler (BPMN) |
 | Qualidade | JUnit 5, Mockito, Postman, Insomnia |
 
-## Projetos
+## 🚀 Projetos
 <p align="center">
   <a href="https://github.com/ValeItalo/salao-luna-fashion" target="_blank">
     <img src="https://github.com/ValeItalo/ValeItalo/assets/103216978/bb6e9875-a224-466d-9f90-a3ccdfc94b60" alt="projeto do salão de beleza Luna Fashion" width="34.6%">
