@@ -17,16 +17,16 @@ Desenvolvedor Full Stack com experiência em sistemas corporativos, desenvolvime
 
 ## 🚀 Projetos
 
-### Foody Order Tracker — Rastreamento de pedidos
+### Foody Order Tracker - Rastreamento de pedidos (2026)
 
 <table>
   <tr>
-    <td width="48%" valign="middle" align="center">
+    <td width="40%" valign="middle" align="center">
       <a href="https://github.com/ValeItalo/foody-order-tracker">
-        <img src="https://github.com/user-attachments/assets/99773772-ed69-4cac-9743-7d8d041eb032" alt="Prévia da interface do Foody Order Tracker" width="100%">
+        <img src="https://github.com/user-attachments/assets/99773772-ed69-4cac-9743-7d8d041eb032" alt="Prévia do Foody Order Tracker" width="100%">
       </a>
     </td>
-    <td width="52%" valign="middle">
+    <td width="60%" valign="middle">
       <p>Aplicação full-stack para cadastro de usuários, autenticação e gerenciamento de pedidos de delivery, com acompanhamento de status e regras de negócio explícitas.</p>
       <strong>Destaques técnicos</strong>
       <ul>
@@ -42,34 +42,37 @@ Desenvolvedor Full Stack com experiência em sistemas corporativos, desenvolvime
   </tr>
 </table>
 
-### Outros projetos
+### Luna Fashion - Site para salão de beleza (2024)
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="40%" valign="middle" align="center">
       <a href="https://github.com/ValeItalo/salao-luna-fashion">
-        <img src="https://github.com/ValeItalo/ValeItalo/assets/103216978/bb6e9875-a224-466d-9f90-a3ccdfc94b60"
-     alt="Prévia do projeto Luna Fashion"
-     width="100%"
-     height="500"
-     style="object-fit: contain;">
+        <img src="https://github.com/user-attachments/assets/e03f126a-97c0-4a0e-8b2f-b0d8c3438527" alt="Prévia do projeto Luna Fashion" width="100%">
       </a>
-      <h4>Luna Fashion</h4>
-      <p>Site para salão de beleza desenvolvido como projeto integrador da UNIVESP, com Angular e API em Java 17/Spring Boot 3.</p>
-      <a href="https://github.com/ValeItalo/salao-luna-fashion">Front-end</a> ·
-      <a href="https://github.com/ValeItalo/salao-luna-fashion-api">API Java</a>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="60%" valign="middle">
+      <p>Projeto integrador da UNIVESP para um salão de beleza, com interface em Angular e API desenvolvida com Java 17 e Spring Boot 3.</p>
+      <strong>Tecnologias:</strong> Angular · TypeScript · Java 17 · Spring Boot 3
+      <p><a href="https://github.com/ValeItalo/salao-luna-fashion"><strong>Ver front-end →</strong></a><br/>
+      <a href="https://github.com/ValeItalo/salao-luna-fashion-api">Ver API Java →</a></p>
+    </td>
+  </tr>
+</table>
+
+### Sorveteria App - HTML, CSS e JavaScript puro (2022)
+
+<table>
+  <tr>
+    <td width="40%" valign="middle" align="center">
       <a href="https://github.com/ValeItalo/Sorveteria-app">
-       <img src="https://github.com/ValeItalo/Sorveteria-app/raw/main/assets/sorveteria-mobile-4.png"
-     alt="Prévia do Sorveteria App"
-     width="100%"
-     height="500"
-     style="object-fit: contain;">
+        <img src="https://github.com/user-attachments/assets/9538eed7-8e38-4e10-b818-88cca7d01be8" alt="Prévia do Sorveteria App" width="100%">
       </a>
-      <h4>Sorveteria App 🍦</h4>
-      <p>Meu primeiro projeto solo, desenvolvido com JavaScript, HTML e CSS puros, sem frameworks. O início da minha jornada transformando lógica em interfaces.</p>
-      <a href="https://github.com/ValeItalo/Sorveteria-app">Ver repositório →</a>
+    </td>
+    <td width="60%" valign="middle">
+      <p>Meu primeiro projeto solo de desenvolvimento, criado com JavaScript, HTML e CSS puros, sem frameworks. Foi onde comecei a transformar lógica em interfaces e construir minha base como desenvolvedor.</p>
+      <strong>Tecnologias:</strong> JavaScript · HTML · CSS
+      <p><a href="https://github.com/ValeItalo/Sorveteria-app"><strong>Ver projeto no GitHub →</strong></a></p>
     </td>
   </tr>
 </table>
