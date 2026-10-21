@@ -1,69 +1,114 @@
-<img src="https://github.com/user-attachments/assets/08232f39-f6d1-49fe-a221-02d29abb8f74" alt="Banner Ítalo Vale" style="max-width: 100%;">
-
-<p align="center">
-  Java · Spring Boot · Angular<br/>
-  DevOps (Docker, GitLab CI/CD) · Testes Automatizados<br/>
-  <a href="https://www.linkedin.com/in/italo-vale">LinkedIn</a> ·
-  <a href="mailto:italo.vale@hotmail.com">E-mail</a> 
-  <!-- · <a href="LINK-DO-PORTFOLIO">Portfólio</a> -->
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/21b65ab1-4c91-410c-8607-b534cdaf914c" alt="Banner Ítalo Vale" width="100%">
 </p>
 
-## Ítalo 👨🏽‍💻 
-Desenvolvedor Full Stack com experiência em sistemas corporativos de alto
-volume e alta disponibilidade. Comecei no suporte técnico, onde aprendi a ouvir
-usuários e entender regras de negócio, e evoluí para desenvolvimento,
-automação e integração de sistemas.
+<p align="center">
+  Java · Spring Boot · Angular · TypeScript<br/>
+  APIs REST · Testes Automatizados · DevOps<br/>
+  <a href="https://www.linkedin.com/in/italo-vale">LinkedIn</a> ·
+  <a href="mailto:italo.vale@hotmail.com">E-mail</a>
+</p>
+
+## Ítalo 👨🏽‍💻
+
+Desenvolvedor Full Stack com experiência em sistemas corporativos, desenvolvimento de APIs, automação e integração de sistemas. Minha trajetória começou no suporte técnico, onde aprendi a entender necessidades de usuários e regras de negócio, e evoluiu para o desenvolvimento de soluções com Java, Spring Boot e Angular.
 
 > Resolvo problemas com compromisso e paixão, focado no valor real que me proponho a gerar.
 
-## 💼 Experiência
+## 🚀 Projetos
 
-**Desenvolvedor Full Stack / DevOps Júnior** · Vivo (Telefônica Brasil) <br/>
-Diretoria de Transformação Digital · Mar/2023 - Ago/2026 (do estágio à efetivação em Nov/2024)
+### Foody Order Tracker — Rastreamento de pedidos
 
-Atuação versátil em desenvolvimento, automação e integração de sistemas corporativos, incluindo regras de negócio do setor de telecom.
+<table>
+  <tr>
+    <td width="48%" valign="middle" align="center">
+      <a href="https://github.com/ValeItalo/foody-order-tracker">
+        <img src="https://github.com/user-attachments/assets/99773772-ed69-4cac-9743-7d8d041eb032" alt="Prévia da interface do Foody Order Tracker" width="100%">
+      </a>
+    </td>
+    <td width="52%" valign="middle">
+      <p>Aplicação full-stack para cadastro de usuários, autenticação e gerenciamento de pedidos de delivery, com acompanhamento de status e regras de negócio explícitas.</p>
+      <strong>Destaques técnicos</strong>
+      <ul>
+        <li>Java 21, Spring Boot, Spring Security e JWT.</li>
+        <li>Arquitetura em camadas, DTOs e validação de dados.</li>
+        <li>TDD, testes unitários e de integração.</li>
+        <li>JaCoCo para cobertura e SpotBugs para análise estática.</li>
+        <li>React, TypeScript, Material UI e SQLite.</li>
+        <li>Flyway para versionamento do esquema do banco.</li>
+      </ul>
+      <a href="https://github.com/ValeItalo/foody-order-tracker"><strong>Ver projeto e documentação →</strong></a>
+    </td>
+  </tr>
+</table>
 
-- Desenvolvimento e evolução de automações (Java/Selenium) e microsserviços Java com APIs REST em produção
-- Criação de telas, componentes, formulários, tabelas e painéis em Angular, com gráficos e métricas gerenciais
-- Manipulação de dados relacionais e não relacionais (SQL Server e MongoDB) em automações e aplicações corporativas
-- Contêineres com Docker/Rancher, pipelines CI/CD (GitLab) e Scrum/Kanban
-- Levantamento e alinhamento de regras de negócio de novas funcionalidades junto às áreas envolvidas
-- Backup técnico de desenvolvedores seniores (front-end, back-end e Power BI) em períodos de férias, com contato pontual com .NET e Node.js
-- Orientação técnica a desenvolvedores de empresas parceiras e mentoria de estagiários
+### Outros projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/ValeItalo/salao-luna-fashion">
+        <img src="https://github.com/ValeItalo/ValeItalo/assets/103216978/bb6e9875-a224-466d-9f90-a3ccdfc94b60"
+     alt="Prévia do projeto Luna Fashion"
+     width="100%"
+     height="500"
+     style="object-fit: contain;">
+      </a>
+      <h4>Luna Fashion</h4>
+      <p>Site para salão de beleza desenvolvido como projeto integrador da UNIVESP, com Angular e API em Java 17/Spring Boot 3.</p>
+      <a href="https://github.com/ValeItalo/salao-luna-fashion">Front-end</a> ·
+      <a href="https://github.com/ValeItalo/salao-luna-fashion-api">API Java</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/ValeItalo/Sorveteria-app">
+       <img src="https://github.com/ValeItalo/Sorveteria-app/raw/main/assets/sorveteria-mobile-4.png"
+     alt="Prévia do Sorveteria App"
+     width="100%"
+     height="500"
+     style="object-fit: contain;">
+      </a>
+      <h4>Sorveteria App 🍦</h4>
+      <p>Meu primeiro projeto solo, desenvolvido com JavaScript, HTML e CSS puros, sem frameworks. O início da minha jornada transformando lógica em interfaces.</p>
+      <a href="https://github.com/ValeItalo/Sorveteria-app">Ver repositório →</a>
+    </td>
+  </tr>
+</table>
+
+## 💼 Experiência profissional
+
+**Desenvolvedor Full Stack / DevOps Júnior** · Vivo (Telefônica Brasil)  
+Diretoria de Transformação Digital · Mar/2023 – Ago/2026  
+Estágio até a efetivação em Nov/2024.
+
+Atuação em desenvolvimento, sustentação, automação e integração de sistemas corporativos, com participação desde o alinhamento de regras de negócio até o suporte às aplicações em produção.
+
+- Desenvolvimento e evolução de automações com Java e Selenium.
+- Implementação e sustentação de APIs REST e microsserviços Java.
+- Desenvolvimento de telas, componentes, formulários, tabelas e dashboards em Angular.
+- Manipulação de dados relacionais e não relacionais com SQL Server e MongoDB.
+- Uso de Docker, Rancher e pipelines CI/CD com GitLab.
+- Levantamento e validação de regras de negócio com áreas envolvidas.
+- Apoio técnico a desenvolvedores de empresas parceiras e mentoria de estagiários.
 
 ## 🎓 Formação
 
-- Bacharelado em Inteligência Artificial, UNIVESP  | Jul/2026 - Cursando
-- Bacharelado em Tecnologia da Informação, UNIVESP | Jul/2022 - Jun/2025 (Concluído)
-- Tecnólogo em Comunicação Institucional, Estácio  | Jul/2020 - Jun/2022 (Concluído)
-- Yellow Belt Lean Six Sigma
+- **Bacharelado em Inteligência Artificial** — UNIVESP · Jul/2026 – em andamento
+- **Bacharelado em Tecnologia da Informação** — UNIVESP · Jul/2022 – Jun/2025
+- **Tecnólogo em Comunicação Institucional** — Estácio · Jul/2020 – Jun/2022
+- **Yellow Belt Lean Six Sigma**
 
 ## 🛠️ Stack
 
 | Área | Tecnologias |
 |---|---|
 | Back-end | Java 8/17/21, Spring Boot, APIs REST, microsserviços |
-| Front-end | Angular, TypeScript, RxJS, HTML, SCSS, Bootstrap |
-| Dados | SQL Server, MySQL, MongoDB |
+| Front-end | Angular, TypeScript, RxJS, HTML, CSS/SCSS, Bootstrap |
+| Dados | SQL Server, MySQL, MongoDB, SQLite |
+| Testes e qualidade | JUnit, Mockito, testes de integração, JaCoCo, SpotBugs |
 | DevOps | Git, GitLab CI/CD, Docker, Rancher, Harbor, Linux |
 | Automação | Selenium, Camunda Modeler (BPMN) |
-| Qualidade | JUnit 5, Mockito, Postman, Insomnia |
+| Tecnologias complementares | React, Vite, Material UI |
 
-## 🚀 Projetos
-<p align="center">
-  <a href="https://github.com/ValeItalo/salao-luna-fashion" target="_blank">
-    <img src="https://github.com/ValeItalo/ValeItalo/assets/103216978/bb6e9875-a224-466d-9f90-a3ccdfc94b60" alt="projeto do salão de beleza Luna Fashion" width="34.6%">
-  </a>
-    
-  <a href="https://github.com/ValeItalo/Sorveteria-app" target="_blank">
-    <img src="https://github.com/ValeItalo/Sorveteria-app/raw/main/assets/sorveteria-mobile-4.png" alt="projeto de uma aplicação de uma sorveteria" width="50%">
-  </a>
-</p>
+## 🌱 Aprendizado contínuo
 
-- **[Luna Fashion](https://github.com/ValeItalo/salao-luna-fashion)**: site de um salão de beleza (projeto integrador UNIVESP). Front-end em Angular + [API em Java 17/Spring Boot 3](https://github.com/ValeItalo/salao-luna-fashion-api).
-- **[Sorveteria App](https://github.com/ValeItalo/Sorveteria-app)** 🍦: meu primeiro projeto solo de desenvolvimento, feito com JavaScript, HTML e CSS puros, sem framework. Foi onde aprendi a transformar lógica em tela, e a base de tudo que construí depois.
-
-
-## 🌱 Agora
-
-Aprofundando Java/Angular e estudando Inteligência Artificial.
+Aprofundando meus conhecimentos em Java, Angular, qualidade de software e Inteligência Artificial, com foco na construção de aplicações bem estruturadas, testáveis e alinhadas às necessidades de negócio.
