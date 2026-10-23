@@ -25,7 +25,7 @@ Desenvolvedor Full Stack, com mais de 3 anos de experiência em desenvolvimento 
       </a>
     </td>
     <td width="60%" valign="middle">
-      <p>Aplicação full-stack para cadastro de usuários, autenticação e gerenciamento de pedidos de delivery, com acompanhamento de status e regras de negócio explícitas.</p>
+      <p>Aplicação full stack para cadastro de usuários, autenticação e gerenciamento de pedidos de delivery, com acompanhamento de status e regras de negócio explícitas.</p>
       <strong>Destaques técnicos</strong>
       <ul>
         <li>Java 21, Spring Boot, Spring Security e JWT.</li>
