@@ -11,9 +11,7 @@
 
 ## Ítalo 👨🏽‍💻
 
-Desenvolvedor Full Stack com experiência em sistemas corporativos, desenvolvimento de APIs, automação e integração de sistemas. Minha trajetória começou no suporte técnico, onde aprendi a entender necessidades de usuários e regras de negócio, e evoluiu para o desenvolvimento de soluções com Java, Spring Boot e Angular.
-
-> Resolvo problemas com compromisso e paixão, focado no valor real que me proponho a gerar.
+Desenvolvedor Full Stack, com mais de 3 anos de experiência em desenvolvimento de software e quase 10 anos em suporte técnico e help desk. Trabalho principalmente com Java, Spring Boot e Angular, desenvolvendo APIs, interfaces e automações, com experiência em sistemas corporativos, análise de falhas e resolução de problemas em produção.
 
 ## 🚀 Projetos
 
